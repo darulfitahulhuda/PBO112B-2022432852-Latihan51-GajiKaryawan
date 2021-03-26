@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch PBO112B2022432852Latihan51GajiKaryawan",
+            "request": "launch",
+            "mainClass": "pbo112b.pkg2022432852.latihan51.gajikaryawan.PBO112B2022432852Latihan51GajiKaryawan",
+            "projectName": "PBO112B-2022432852-Latihan51-GajiKaryawan_db615346"
+        }
+    ]
+}
